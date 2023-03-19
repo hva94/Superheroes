@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_img_superhero">Imagen del Superheroe</string>
+
+    <string name="title_detail_superhero">Detalle del Superheroe</string>
+
+    <string name="error_network">Error de la red, revisa tu conexión e inténtalo mas tarde.</string>
+</resources>

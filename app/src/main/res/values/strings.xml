@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name" translatable="false">Superheroes - hva94</string>
+
+    <string name="description_img_superhero">Superhero Image</string>
+
+    <string name="title_detail_superhero">Superhero Detail</string>
+
+    <string name="error_network">Network error, please check your connection and try again later.</string>
+
+</resources>
