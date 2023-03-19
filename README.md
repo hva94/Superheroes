@@ -67,7 +67,6 @@
 * Strings values
 * Dimens values
 * And more...
-* 
 
 > API documentation based: [SuperHero API](https://www.superheroapi.com/)
 >
