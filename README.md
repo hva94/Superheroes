@@ -68,11 +68,12 @@
 * Dimens values
 * And more...
 * 
+
 > API documentation based: [SuperHero API](https://www.superheroapi.com/)
 >
 > Get your free api key on the same website.
 >
 > (To try the application put your API key in the api_key.xml file).
 >
-> 
+
 # 💬 Contact me on [linkedin.com/in/hva94](https://www.linkedin.com/in/hva94/)
